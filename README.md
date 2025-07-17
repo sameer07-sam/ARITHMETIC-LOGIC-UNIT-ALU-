@@ -52,3 +52,7 @@ I simulated the design using tools like ModelSim, observed waveforms, and verifi
 
 **Result Analysis**:
 After confirming correct functionality through simulation, I documented the behavior and confirmed that the ALU meets the initial design requirements.
+
+## **OUTPUT**
+
+<img width="1366" height="701" alt="Image" src="https://github.com/user-attachments/assets/998070fc-57e7-41b8-98e9-ba06cd411fb0" />
